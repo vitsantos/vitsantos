@@ -19,7 +19,7 @@ Meu nome é Vitória, sou graduanda em Engenharia de Computação pela *Universi
 
 🔭 Atualmente tenho trabalhado em projetos pessoais buscando aprimorar as minhas habilidades.
 
-📚 Estou iniciando os estudos na área de Machine Learning.
+📚 Estou iniciando os estudos na área de Ciência de Dados.
 
 
 🌱 Gosto de conhecer coisas novas, por isso estou constantemente aprendendo e explorando novas tecnologias.
